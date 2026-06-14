@@ -1,0 +1,6 @@
+{
+  "name": "EventSphere",
+  "description": "Smart Event Management System with an interactive relational database dashboard, live SQL terminal, ER diagram visualizer, and detailed DBMS Viva demonstration support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
